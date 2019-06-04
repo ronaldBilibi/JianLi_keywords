@@ -1,2 +1,2 @@
-# 淄博健利词库表
+# zibojianli keyword list
 hello Git,thanks for your effort.
