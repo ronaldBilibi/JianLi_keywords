@@ -1,2 +1,2 @@
-# 第一次使用git共享词库表
-hello Git
+# 淄博健利词库表
+hello Git,thanks for your effort.
